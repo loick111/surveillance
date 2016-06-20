@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.3)
 project(surveillance)
-find_package(OpenCV REQUIRED)
+find_package(OpenCV 3.1 REQUIRED)
 
 set(DEBUG "-DDEBUG")
 set(DEBUG_LEVEL "0")

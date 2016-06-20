@@ -5,8 +5,7 @@
 #ifndef SURVEILLANCE_VIDEODISPLAY_H
 #define SURVEILLANCE_VIDEODISPLAY_H
 
-#include <opencv2/core/types_c.h>
-#include <opencv2/core/core.hpp>
+#include <opencv2/core.hpp>
 #include <string>
 
 class VideoDisplay {

@@ -2,8 +2,7 @@
  * @author Thomas Munoz
  */
 
-#include <opencv/cv.h>
-#include <opencv/highgui.h>
+#include <opencv2/opencv.hpp>
 #include "VideoDisplay.h"
 
 using namespace cv;
